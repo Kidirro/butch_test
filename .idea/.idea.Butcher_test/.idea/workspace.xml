@@ -11,34 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c5a51f4-55d8-41f3-a8ae-f1c0c5c0084d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Butcher_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Butcher_test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level_1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level_1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BaseSingleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BaseSingleton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColliderSystem/AnimatorTriggerCollider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ColliderSystem/AnimatorTriggerCollider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColliderSystem/BaseColliderObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ColliderSystem/BaseColliderObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColliderSystem/ScoreCollider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ColliderSystem/ScoreCollider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GlobalMusicController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GlobalMusicController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InputController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InputController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PatchSystem/PatchManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PatchSystem/PatchManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PatchSystem/PatchPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PatchSystem/PatchPoint.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerSystem/PlayerAnimatorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerSystem/PlayerAnimatorController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerSystem/PlayerMoveController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerSystem/PlayerMoveController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerSystem/PlayerSkinController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerSystem/PlayerSkinController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/GameProgressBarUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/GameProgressBarUI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/PickableScoreText.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/PickableScoreText.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/ScoreText.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ScoreText.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/SlideButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/SlideButton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/SlideUIArea.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/SlideUIArea.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Visual/Texture2D/50_coins.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Visual/Texture2D/50_coins.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Visual/Texture2D/Dollar_Green.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Visual/Texture2D/Dollar_Green.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Visual/Texture2D/finish.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Visual/Texture2D/finish.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Butcher_test/.idea/indexLayout.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +103,7 @@
       <workItem from="1790078430911" duration="3343000" />
       <workItem from="1790100631618" duration="7492000" />
       <workItem from="1790134264604" duration="3892000" />
+      <workItem from="1790151247017" duration="22000" />
     </task>
     <servers />
   </component>
