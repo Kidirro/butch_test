@@ -1,0 +1,1377 @@
+fileFormatVersion: 2
+guid: eeb77f6d2101f3041a8e1116302589b4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 935
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916575d13b2493741bf89d6a69efb0d1
+      internalID: 1559901973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 865
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757f9e1fd8394dd40ac7f439208bf929
+      internalID: -1500288972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 869
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2bf12f0f11fef47af851ea10650435
+      internalID: 1243477438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 767
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7544027eeb2f1954080138d8fa91392b
+      internalID: 1731437874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 807
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c4516d32b96a4ea8dd77bc9ea7160
+      internalID: 1650911344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 637
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3109ef5ac47da448415fa537f9548e
+      internalID: -1907950629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 755
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c191b6466c60e42b9e4580eccf7597
+      internalID: 36687762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 648
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a176952e43413e47884892796207891
+      internalID: -906262034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 700
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff61700062c78c142bfee10baa9b1553
+      internalID: 321626413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 639
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96618af24ef27354cb834de6d5267415
+      internalID: -206036848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc57af4be7296e74ba4e47a8ba07c43e
+      internalID: -1273249749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 595
+        width: 76
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb096250cb02e34095ae0a978495e39
+      internalID: 1619775338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 611
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e014dd9f3ae8f184681f329136bac3f9
+      internalID: -1709209656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 571
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5716f490b81afd4bb9b8d8c4b67db1c
+      internalID: -1271263294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 571
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f373039b003b47bd33069ec89f002
+      internalID: 384514891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 571
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32205744d65885244ab9e2cba5a86d75
+      internalID: -1153413484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 540
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c15de69474f048b9c0254d0689eda
+      internalID: 1585922572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 541
+        width: 76
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4924af206193f5f45addfc4a955d51bb
+      internalID: -363978918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 411
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831aa70016cc7714f96f594a8864c72a
+      internalID: -20025670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 489
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7792027eacf88e4faa034c15c7f3aeb
+      internalID: 107226641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 176
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d268cae6f19e51c4b91b5310ac3af1d0
+      internalID: -2007112501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 403
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2ed025c8a9bb41b4ee8b5baf75121
+      internalID: -1096073577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 411
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb6efd5664d2b24ebea0f1a55f930db
+      internalID: 684455661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 354
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5fec95a55c82649950b54b8f5a37cb
+      internalID: 1073961873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 235
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e2718542547a4eb159f4bed18a35c
+      internalID: 4572541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb8002c76b09264abd0d3339988c9c9
+      internalID: 238874436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 259
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76fc565da87e9e4da5506da495a11c8
+      internalID: -1943831442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_27
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 310
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24b203e3b7c1d748a5fafb1d6860b34
+      internalID: 1571503746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_28
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 268
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ee155665d452a43a2fb3425121ab29
+      internalID: 1392850693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 237
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6b0fe6e9f417243b783e79fdafdec6
+      internalID: -2070952768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 176
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a62a7bc1959b143ba8e8e0fdb47d87
+      internalID: 1221338942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 273
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d95347b66bb14fac6f5e44636b559
+      internalID: 1889688253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 252
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d2efebe0023f45bf6180c9e59a06a
+      internalID: -885370764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 233
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f08856878fda1459a373ea0e066450
+      internalID: 332123466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_34
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 153
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c813873a8fdfff446b5ebbae13b3f520
+      internalID: -2014634357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_35
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 215
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafe55f6be1fd7545936abf4e436e822
+      internalID: -1500390958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_36
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 7
+        width: 133
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea01e60e566901b45bda45c19cfc150a
+      internalID: 2102535795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 153
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5eacb6c09bf2e46a54a1da6550c254
+      internalID: 1107798678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_38
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ee1d5863d8204794087b2137d43ac
+      internalID: -506127784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_39
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 165
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd5decdb42644841af9c0b8c407e47d
+      internalID: 2004547147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89da0aee63849eb4d81989a97ff899a0
+      internalID: 1718651144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_41
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 109
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d39b7c540d87c44797e012cfff75973
+      internalID: 631327880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_42
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 109
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697ad1c7fa22274797ce4b109bb1b5b
+      internalID: -1864631635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_43
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 101
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775d9455c206b694aa820350ce98d01e
+      internalID: -112690831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_44
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 9
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53cd17e938a6e04d8f956c1deadff2f
+      internalID: -912955637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_45
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938b609932c28ef47b41ba7c5aae11de
+      internalID: -829301056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_46
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ee06af03ba94e4093803ce4ba05c2e
+      internalID: -1107328003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_47
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ea57652f7df334ab092bb12e6df614
+      internalID: 438539719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_48
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0525174e6ff61054d894091018f7c2ba
+      internalID: 897202630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_49
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0059999197047a46a38e89ad617e496
+      internalID: -2014760463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_50
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2e7a40f0b69dd43b88df5220123e1f
+      internalID: 653390455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_51
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 13
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdbf456d019d884daebcaa69086a855
+      internalID: -1948164947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DebugScreenCommonImageAtlas2_52
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 25
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ab807ec9e38764191953692b0bfdc7
+      internalID: 1462921496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8f2e54e229bb5ba46be562f96dad5e8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DebugScreenCommonImageAtlas2_0: 1559901973
+      DebugScreenCommonImageAtlas2_1: -1500288972
+      DebugScreenCommonImageAtlas2_10: -1273249749
+      DebugScreenCommonImageAtlas2_11: 1619775338
+      DebugScreenCommonImageAtlas2_12: -1709209656
+      DebugScreenCommonImageAtlas2_13: -1271263294
+      DebugScreenCommonImageAtlas2_14: 384514891
+      DebugScreenCommonImageAtlas2_15: -1153413484
+      DebugScreenCommonImageAtlas2_16: 1585922572
+      DebugScreenCommonImageAtlas2_17: -363978918
+      DebugScreenCommonImageAtlas2_18: -20025670
+      DebugScreenCommonImageAtlas2_19: 107226641
+      DebugScreenCommonImageAtlas2_2: 1243477438
+      DebugScreenCommonImageAtlas2_20: -2007112501
+      DebugScreenCommonImageAtlas2_21: -1096073577
+      DebugScreenCommonImageAtlas2_22: 684455661
+      DebugScreenCommonImageAtlas2_23: 1073961873
+      DebugScreenCommonImageAtlas2_24: 4572541
+      DebugScreenCommonImageAtlas2_25: 238874436
+      DebugScreenCommonImageAtlas2_26: -1943831442
+      DebugScreenCommonImageAtlas2_27: 1571503746
+      DebugScreenCommonImageAtlas2_28: 1392850693
+      DebugScreenCommonImageAtlas2_29: -2070952768
+      DebugScreenCommonImageAtlas2_3: 1731437874
+      DebugScreenCommonImageAtlas2_30: 1221338942
+      DebugScreenCommonImageAtlas2_31: 1889688253
+      DebugScreenCommonImageAtlas2_32: -885370764
+      DebugScreenCommonImageAtlas2_33: 332123466
+      DebugScreenCommonImageAtlas2_34: -2014634357
+      DebugScreenCommonImageAtlas2_35: -1500390958
+      DebugScreenCommonImageAtlas2_36: 2102535795
+      DebugScreenCommonImageAtlas2_37: 1107798678
+      DebugScreenCommonImageAtlas2_38: -506127784
+      DebugScreenCommonImageAtlas2_39: 2004547147
+      DebugScreenCommonImageAtlas2_4: 1650911344
+      DebugScreenCommonImageAtlas2_40: 1718651144
+      DebugScreenCommonImageAtlas2_41: 631327880
+      DebugScreenCommonImageAtlas2_42: -1864631635
+      DebugScreenCommonImageAtlas2_43: -112690831
+      DebugScreenCommonImageAtlas2_44: -912955637
+      DebugScreenCommonImageAtlas2_45: -829301056
+      DebugScreenCommonImageAtlas2_46: -1107328003
+      DebugScreenCommonImageAtlas2_47: 438539719
+      DebugScreenCommonImageAtlas2_48: 897202630
+      DebugScreenCommonImageAtlas2_49: -2014760463
+      DebugScreenCommonImageAtlas2_5: -1907950629
+      DebugScreenCommonImageAtlas2_50: 653390455
+      DebugScreenCommonImageAtlas2_51: -1948164947
+      DebugScreenCommonImageAtlas2_52: 1462921496
+      DebugScreenCommonImageAtlas2_6: 36687762
+      DebugScreenCommonImageAtlas2_7: -906262034
+      DebugScreenCommonImageAtlas2_8: 321626413
+      DebugScreenCommonImageAtlas2_9: -206036848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
